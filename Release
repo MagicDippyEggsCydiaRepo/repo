@@ -1,0 +1,8 @@
+Origin: Magic Dippy Eggs Personal Repo
+Label: Magic Dippy Eggs Personal Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: My Personal Repo
